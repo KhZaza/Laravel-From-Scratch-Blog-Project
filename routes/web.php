@@ -1,5 +1,5 @@
 <?php
-
+//This is the brain of the project 
 use App\Http\Controllers\AdminPostController;
 use App\Http\Controllers\NewsletterController;
 use App\Http\Controllers\PostCommentsController;
